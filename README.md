@@ -19,3 +19,4 @@ We understand that there are more resources other than the ones we have listed a
 6. [Mobile Hacking](/assets/mobile.md)
 6. [Blog posts & Talks](/assets/blogposts.md)
 7. [Media Resources](/assets/media.md)
+8. [Smart Contracts](/assets/Smart-contracts.md)
